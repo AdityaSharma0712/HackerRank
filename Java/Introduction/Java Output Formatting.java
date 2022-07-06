@@ -43,6 +43,7 @@ public class Solution {
                 int x=sc.nextInt();
 
                 System.out.printf("%-14s %03d %n", s1, x);       //note the use of printf
+                //The printf() is a library function to send formatted output to the screen. The function prints the string inside quotations. 
                     // %-14s  fifteen characters left-justified o to 14
                     // %03d padded with leading zero
        
